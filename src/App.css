@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+  text-align: left;
+  margin: 20px;
+}
+
+.FilmReleaseBox {
+  background-color: lightgray;
 }
 
 .App-logo {
